@@ -1,5 +1,5 @@
 # cursoLoianeTraining
-Material de estudo produzido durante o curso de Java Básico 40h da Loiane Groner (https://loiane.training/)
+Material de estudo produzido durante o curso de Java Básico 30h da Loiane Groner (https://loiane.training/)
 
 ### Link do curso com certificado:
 * [https://loiane.training/curso/java-basico/](https://loiane.training/curso/java-basico/)
